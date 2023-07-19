@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "696030711794",
+    "project_id": "ledrgb-ocr",
+    "storage_bucket": "ledrgb-ocr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696030711794:android:bd5818c13d85df09ab256b",
+        "android_client_info": {
+          "package_name": "com.example.ledrgb_ocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696030711794-sm4aba8as2ogglbn4pnee2op0gl7842i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnOQ8N1o0-P0pi_KOThhOJRjKYEA5oWAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696030711794-sm4aba8as2ogglbn4pnee2op0gl7842i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
